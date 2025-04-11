@@ -4,6 +4,8 @@ consists of an ATMega88 or an ATMega8 and a couple of passive components.
 The programmer uses a firmware-only USB driver, no special USB controller
 is needed.
 
+https://github.com/hammsyah/USBasp_v2/blob/main/circuit/USBasp_schematics.pdf
+
 Features:
 - Works under multiple platforms. Linux, Mac OS X and Windows are tested.
 - No special controllers or smd components are needed.
